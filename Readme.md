@@ -20,7 +20,6 @@ Simulation_main: Contains all functions created for this project, such as precis
 
 ### Requirements
 R
-Libraries: numpy, scipy, matplotlib, pandas, sklearn
 ### Future Enhancements
 Extension to Alternative Estimation Methods: Exploring additional regularized methods or Bayesian approaches for improved high-dimensional accuracy.
 Robustness Testing: Expanding simulations to cover more diverse market scenarios.
